@@ -1,11 +1,11 @@
 .group {
-  margin: 20px 0;
+  margin-bottom: 20px;
   padding-bottom: 0;
   margin-top: 0;
 }
 
 .form-field {
   display: block;
-  margin: 10px 0;
+  margin-bottom: 10px;
   margin-top: 0;
 }
